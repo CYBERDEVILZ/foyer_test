@@ -7,6 +7,14 @@ Assignment for flutter developer role @ foyer.
 - **Sqflite** - Multiple location based device profile data is stored in an SQLite database. 
 - **Shared Preferences** - The user's current profile data is stored locally using shared preferences. It brings a sense of persistance within the app.
 
+# Features
+- Added validation for latitudes and longitudes.
+- Prevents creation of duplicate location based profiles.
+
+# Future Improvements
+- Can add a search feature to filter location profiles.
+- Can improve the UI by including animations.
+
 Find below the screenshots for the app.
 # Initial Screen
 ![Screenshot_1691663153](https://github.com/CYBERDEVILZ/foyer_test/assets/55954313/d118fd15-7e94-4b55-abdb-eb3ea872cc4e)
